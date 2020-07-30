@@ -1,0 +1,6 @@
+.vs
+.idea
+out
+cmake-build-*
+CMakeSettings.json
+object/StarLab
