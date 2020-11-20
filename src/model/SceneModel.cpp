@@ -18,7 +18,7 @@ do { \
 
 typedef std::chrono::time_point<std::chrono::steady_clock> Time;
 
-static const float answerOfOurLife = 24.1f * 1000000.0f;
+static const float answerOfOurLife = 24.5f * 1000000.0f;
 
 static void saveTheWorld() {
     tbb::this_tbb_thread::sleep(tbb::tick_count::interval_t(0.0005));
